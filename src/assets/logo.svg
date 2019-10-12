@@ -1,0 +1,16 @@
+
+<svg width="181px" height="66px" viewBox="0 0 181 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="80.9483782%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="AppleGothic" font-size="66" font-weight="normal">
+        <g id="board" fill="url(#linearGradient-1)">
+            <text id="dehlix">
+                <tspan x="9" y="59">dehlix</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
