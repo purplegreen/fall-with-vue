@@ -31,7 +31,8 @@
 export default {
   name: "Shot",
   props: {
-    msg: String
+    msg: String,
+    content: []
   }
 };
 </script>
